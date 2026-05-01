@@ -23,12 +23,12 @@ pip install -r requirements.txt
 
 ### 1단계: 데이터셋 구조 확인
 ```bash
-python scripts/01_inspect_dataset.py
+python scripts/inspect_dataset.py
 ```
 
 ### 2단계: 모델 학습
 ```bash
-python scripts/02_train_model.py
+python scripts/train_model.py
 ```
 
 학습이 끝나면 다음 파일이 생성된다.
@@ -40,17 +40,17 @@ results/evaluation.txt
 
 ### 3단계: 직접 문자 입력 예측
 ```bash
-python scripts/03_predict_message.py
+python scripts/predict_message.py
 ```
 
 ### 4단계: 수학 원리 직접 계산 예시
 ```bash
-python scripts/04_manual_naive_bayes_example.py
+python scripts/manual_naive_bayes_example.py
 ```
 
 ### 5단계: 결과 분석
 ```bash
-python scripts/05_analyze_results.py
+python scripts/analyze_results.py
 ```
 
 분석이 끝나면 다음 파일이 생성된다.
