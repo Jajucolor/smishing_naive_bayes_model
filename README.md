@@ -61,10 +61,3 @@ results/top_features.txt
 results/result_analysis.txt
 ```
 
-## 보고서 작성용 문서
-```text
-docs/04_math_explanation.md
-docs/report_section_draft.md
-docs/05_result_analysis_draft.md
-docs/final_report_insert.md
-```
